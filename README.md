@@ -22,7 +22,7 @@ start container use docker-compose
 create laravel project
 
     PS> docker-compose exec php bash
-    container# laravel new
+    root@container:/var/www# laravel new
 
 
 
