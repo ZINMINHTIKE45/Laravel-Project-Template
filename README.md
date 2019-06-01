@@ -15,7 +15,7 @@ Rename and Switch to the repo folder
 
     cd project-name
 
-Install all the dependencies using docker-compose
+start container use docker-compose
 
     docker-compose up -d
 
