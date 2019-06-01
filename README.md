@@ -11,7 +11,7 @@ Clone the repository
 
 Rename and Switch to the repo folder
 
-    Rename-Item laravel-realworld-example-app -newname project-name
+    PS> Rename-Item laravel-realworld-example-app -newname project-name
 
     cd project-name
 
