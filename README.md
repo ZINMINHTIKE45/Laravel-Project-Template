@@ -7,22 +7,22 @@ laravel project template
 
 Clone the repository
 
-    git clone https://github.com/daisukepiiqfootbank/Laravel-Project-Template.git
+    PS> git clone https://github.com/daisukepiiqfootbank/Laravel-Project-Template.git
 
 Rename and Switch to the repo folder
 
     PS> Rename-Item Laravel-Project-Template -newname project-name
 
-    cd project-name
+    PS> cd project-name
 
 start container use docker-compose
 
-    docker-compose up
+    PS> docker-compose up
 
 create laravel project
 
-    docker-compose exec php bash
-    laravel new
+    PS> docker-compose exec php bash
+    container# laravel new
 
 
 
