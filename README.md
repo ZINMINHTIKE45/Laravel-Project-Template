@@ -17,7 +17,7 @@ Rename and Switch to the repo folder
 
 start container use docker-compose
 
-    docker-compose up -d
+    docker-compose up
 
 create laravel project
 
